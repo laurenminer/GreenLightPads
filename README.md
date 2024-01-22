@@ -26,16 +26,23 @@ You will also need access to scissors, tape, a wire stripper, and a small philli
 1. Laser cut the black acrylic (bottom and sides), clear acrylic (top), and diffuser paper (top).
 2. Screw the LEDs into the the bottom in the indicated positions (rastered on by the laser cutter), threating the wires through to the underside of the box.
 3. Assemble the sides and top of the box, securing with tape. Affix the diffuser paper to the top of the box, affix with tape.
-4. Now you need to connect all the LEDs together in series and to the power source. First strip the wires so you have more uncoated wire to insert into the connectors. Then cut six ~5 inch peices of wire (3 black and 3 red/green if you are color coding) and strip the ends of those too.
+4. Now you need to connect all the LEDs together in series and to the power source. First strip the wires so you have more uncoated wire to insert into the connectors. Next cut six ~5 inch peices of wire (3 black and 3 red/green if you are color coding) and strip the ends of those too. Then do the following:
+ 
    a. Take the green wires for the first four LEDs (you can start on either end of the box) and connect them with a 5 port connector.
+   
    b. Using a peice of green/red wire you cut, connect that 5 port connector to a new 5 port connector.
+   
    c. Connect the green wires for the next three LEDs to the 5 port connector that now has 4 open slots (reducing it to 1 open slot).
+   
    d. Using a peice of green/red wire you cut, connect that 5 port connector to a new 5 port connector.
+   
    e. Connect the green wires for the next three LEDs to the 5 port connector that now has 4 open slots (reducing it to 1 open slot).
+   
    f. Using a peice of green/red wire you cut, connect that 5 port connector to the barrel jack adaptor.
+   
    g. Repeat a-f for all the black wires.
-5. Secure all the wiring with tape.
-6. Attach the power supply to the barrel jack adaptor.
+7. Secure all the wiring with tape.
+8. Attach the power supply to the barrel jack adaptor.
    
 ## Photos of Completed Box
 
