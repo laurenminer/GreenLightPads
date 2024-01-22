@@ -2,7 +2,7 @@
 
 Schematics and instructions for creating the green lightpads used for satiety assays with optogenetics in Miner et. al, 2024.
 
-See below for how vials are positioned on the lightpad to achieve a ~ 8.12 µW/mm^2 intensity.
+See below for how vials are positioned on the lightpad to achieve a ~ $8.12 µW/mm^2$ intensity.
 
 ## Parts
 
