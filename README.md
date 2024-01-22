@@ -4,6 +4,8 @@ Schematics and instructions for creating the green lightpads used for satiety as
 
 See below for how vials are positioned on the lightpad to achieve a ~ $8.12 µW/mm^2$ intensity.
 
+Schematics and laser cutter settings can be found in GreenLightpad.pdf or GreenLightpad.ai
+
 ## Parts
 
 Black acrylic for bottom and sides:  1/8" black acrylic McMaster-Carr #8505K755
